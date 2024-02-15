@@ -11,7 +11,7 @@
 - 📫 How to reach me **hamnaraeel@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://hamnaraeel.vercel.app/](https://hamnaraeel.vercel.app/)
-
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/hamnaraeel" target="blank">
@@ -25,7 +25,7 @@
             alt="fahadbhatti2001" height="30" width="40" />
     </a>
 </p>
-
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a bg href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
