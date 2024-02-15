@@ -25,7 +25,6 @@
             alt="fahadbhatti2001" height="30" width="40" />
     </a>
 </p>
-<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a bg href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
