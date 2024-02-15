@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **Web Development, Generative AI**
+- 💬 Ask me about **Software Development, Generative AI**
 
 - 📫 How to reach me **hamnaraeel@gmail.com**
 
