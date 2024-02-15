@@ -102,7 +102,7 @@
     </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="50" height="35" />
+            alt="photoshop" width="60" height="35" />
     </a>
     <a href="https://python.langchain.com/docs/get_started/introduction" target="_blank" rel="noreferrer">
         <img src="https://python.langchain.com/img/parrot-chainlink-icon.png"
