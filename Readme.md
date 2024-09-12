@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Software Development, Generative AI**
 
-- 📫 How to reach me **hamnaraeel@gmail.com**
+- 📫 How to reach me **hamnaraeelofficial@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://hamnaraeel.vercel.app/](https://hamnaraeel.vercel.app/)
 <br/>
