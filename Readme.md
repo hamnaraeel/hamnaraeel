@@ -52,7 +52,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="35" height="35" />
     </a>
     <a href="https://python.langchain.com/docs/get_started/introduction" target="_blank" rel="noreferrer">
-        <img src="https://python.langchain.com/img/parrot-chainlink-icon.png" alt="langchain" width="60" height="35" />
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" height="28" />
     </a>
     <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="35" height="35" />
@@ -77,7 +77,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="35" height="35" />
     </a>
     <a href="https://www.ibm.com/cloud" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ibm/ibm-original.svg" alt="ibm cloud" width="35" height="35" />
+        <img src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logoColor=white" alt="ibm cloud" height="28" />
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="35" height="35" />
