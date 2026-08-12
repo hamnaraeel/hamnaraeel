@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **hamnaraeelofficial@gmail.com**
 
-- 👨‍💻 Projects: [https://hamnaraeel.vercel.app/](https://hamnaraeel.vercel.app/)
+- 👨‍💻 Projects: [https://hamnaraeel.vercel.app/](https://hamnaraeel.netlify.app/)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
